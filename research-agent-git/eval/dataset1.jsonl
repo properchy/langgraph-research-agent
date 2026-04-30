@@ -1,0 +1,2 @@
+{"id": 1, "query": "写一份杭州三日游攻略，包含预算与避坑建议", "type": "travel", "expected_min_sources": 2}
+{"id": 2, "query": "比较上海和深圳作为实习城市的优缺点", "type": "comparison", "expected_min_sources": 2}
