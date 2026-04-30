@@ -1,0 +1,31 @@
+{"id": 1, "query": "写一份杭州三日游攻略，包含预算与避坑建议", "type": "travel", "expected_min_sources": 2}
+{"id": 2, "query": "比较上海和深圳作为实习城市的优缺点", "type": "comparison", "expected_min_sources": 2}
+{"id": 3, "query": "总结2025年主流开源大模型的发展趋势", "type": "news", "expected_min_sources": 2}
+{"id": 4, "query": "对比LangGraph和AutoGen在多Agent编排上的差异", "type": "comparison", "expected_min_sources": 2}
+{"id": 5, "query": "整理RAG系统中重排序模型的常见方案", "type": "paper", "expected_min_sources": 2}
+{"id": 6, "query": "写一个关于新加坡旅游签证政策的简报", "type": "travel", "expected_min_sources": 2}
+{"id": 7, "query": "比较React和Vue在企业级项目中的工程实践", "type": "comparison", "expected_min_sources": 2}
+{"id": 8, "query": "总结MCP协议的核心设计思路和典型场景", "type": "paper", "expected_min_sources": 2}
+{"id": 9, "query": "生成一份北京到西安高铁出行指南", "type": "travel", "expected_min_sources": 2}
+{"id": 10, "query": "比较Milvus、Weaviate和Qdrant的向量检索能力", "type": "comparison", "expected_min_sources": 2}
+{"id": 11, "query": "梳理2025年AI Agent领域的重要事件", "type": "news", "expected_min_sources": 2}
+{"id": 12, "query": "总结多模态模型评测基准的发展", "type": "paper", "expected_min_sources": 2}
+{"id": 13, "query": "做一份成都周末美食旅行攻略", "type": "travel", "expected_min_sources": 2}
+{"id": 14, "query": "比较PostgreSQL和MySQL在OLTP场景下的选择建议", "type": "comparison", "expected_min_sources": 2}
+{"id": 15, "query": "整理2025年云原生生态关键变化", "type": "news", "expected_min_sources": 2}
+{"id": 16, "query": "调研Vision Transformer近期改进方向", "type": "paper", "expected_min_sources": 2}
+{"id": 17, "query": "写一份大阪自由行路线与预算建议", "type": "travel", "expected_min_sources": 2}
+{"id": 18, "query": "比较FastAPI和Django在API开发中的取舍", "type": "comparison", "expected_min_sources": 2}
+{"id": 19, "query": "总结数据库向量检索一体化产品趋势", "type": "news", "expected_min_sources": 2}
+{"id": 20, "query": "调研多Agent协作中的任务分解策略论文", "type": "paper", "expected_min_sources": 2}
+{"id": 21, "query": "写一份青岛海边旅行防踩坑清单", "type": "travel", "expected_min_sources": 2}
+{"id": 22, "query": "比较Kafka和Pulsar在消息系统中的优劣", "type": "comparison", "expected_min_sources": 2}
+{"id": 23, "query": "总结2025年AI编程助手产品变化", "type": "news", "expected_min_sources": 2}
+{"id": 24, "query": "调研时间序列大模型的代表性论文", "type": "paper", "expected_min_sources": 2}
+{"id": 25, "query": "生成一份苏州园林深度游路线", "type": "travel", "expected_min_sources": 2}
+{"id": 26, "query": "比较Kubernetes和Nomad在生产环境的管理复杂度", "type": "comparison", "expected_min_sources": 2}
+{"id": 27, "query": "梳理2025年开源数据库行业报告要点", "type": "news", "expected_min_sources": 2}
+{"id": 28, "query": "调研检索增强生成中的幻觉抑制方法", "type": "paper", "expected_min_sources": 2}
+{"id": 29, "query": "给出一个容易失败的问题：总结一个几乎没人写过的小众话题", "type": "news", "expected_min_sources": 1}
+{"id": 30, "query": "给出一个容易失败的问题：比较两个新发布且资料极少的框架", "type": "comparison", "expected_min_sources": 1}
+
